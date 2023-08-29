@@ -10,5 +10,5 @@ layout: home
 ![](assets/ferramentasinfantil.png)
 ![](assets/ferramentainfantil2.png)
 ![](assets/ferramentainfantil3.png)
-![](ferramentas.png)
+
 
