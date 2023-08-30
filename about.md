@@ -4,7 +4,7 @@ title: complementares
 permalink: /about/
 ---
 
-feramentas intantil
+ferramentas intantil
 
 ![](assets/carretinhainfantil.png)
 ![](assets/tratorinfantil.png)
