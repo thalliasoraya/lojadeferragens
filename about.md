@@ -4,7 +4,7 @@ title: complementares
 permalink: /about/
 ---
 
-ferramentas intantil
+carros de cultivo intantil
 
 ![](assets/carretinhainfantil.png)
 ![](assets/tratorinfantil.png)
