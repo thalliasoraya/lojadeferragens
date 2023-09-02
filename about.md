@@ -1,11 +1,12 @@
 ---
 layout: page
-title: complementares
+title: carros
 permalink: /about/
 ---
 
  #carros de cultivo infantil
-
+valor: 2.000
 ![](assets/carretinhainfantil.png)
-##valor 1.500$
+
+valor: 1.500
 ![](assets/tratorinfantil.png)
