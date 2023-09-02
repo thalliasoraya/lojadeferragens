@@ -12,4 +12,4 @@ layout: home
 ![](assets/ferramentainfantil3.png)
 ![](assets/infantil.png)
 ![](assets/ferramentas.png)
-![](assets/.png)
+
