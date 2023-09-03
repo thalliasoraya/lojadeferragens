@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "recomendada para as crianças com idade acima de 6 anos"
+title: "mais variedades"
 categories: misc
 ---
 
-a loja é voltada para o público infantil, atende criança a partir de 6 anos de idade, tem peças que podem ser facilmente engolidas por crinaças com idade inferior.
+![image](https://github.com/thalliasoraya/lojadeferragens/assets/141082185/e633de11-7921-42cc-a95a-1c9a480345c4)
