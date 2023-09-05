@@ -4,9 +4,9 @@ title: carros
 permalink: /about/
 ---
 
- #carros de cultivo infantil <div/>
-valor: 2.000
-![](assets/carretinhainfantil.png)
+ carros de cultivo infantil
 
-valor: 1.500
-![](assets/tratorinfantil.png)
+![](assets/carretinhainfantil.png)  $2.000
+
+
+![](assets/tratorinfantil.png)  $1.500
