@@ -7,13 +7,13 @@
 #
 layout: home
 ---
-![](assets/ferramentasinfantil.png) $349.00
+![](assets/ferramentasinfantil.png)  $349.00
 
-![](assets/ferramentainfantil2.png) $275.00
+![](assets/ferramentainfantil2.png)  $275.00
 
-![](assets/ferramentainfantil3.png) $187.49
+![](assets/ferramentainfantil3.png)  $187.49
 
-![](assets/infantil.png) $97.00
+![](assets/infantil.png)  $97.00
 
-![](assets/ferramentas.png) $67.00
+![](assets/ferramentas.png)  $67.00
 
