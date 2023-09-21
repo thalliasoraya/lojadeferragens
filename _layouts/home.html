@@ -19,7 +19,7 @@ layout: base
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+      <h1 class="post-list-heading">{{ page.list_title }}</h1>
     {%- endif -%}
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -50,7 +50,7 @@ layout: base
         {%- if paginator.next_page %}
           <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
         {%- else %}
-          <li><div class="pager-edge">•</div></li>
+          <li><div class="pagina util">•</div></li>
         {%- endif %}
         </ul>
       </div>
