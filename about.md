@@ -6,7 +6,7 @@ permalink: /about/
 
  carros de cultivo infantil
 
-![](assets/carretinhainfantil.png)  $2.000
+![](assets/carretinhainfantil.png)  $3.000
 
 
-![](assets/tratorinfantil.png)  $1.500
+![](assets/tratorinfantil.png)  $2.500
