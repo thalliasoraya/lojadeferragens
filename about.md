@@ -6,7 +6,11 @@ permalink: /about/
 carros para se divertir
 
 
-![](assets/carretinhainfantil.png)  $3.000
+![](assets/carretinhainfantil.png) 
+
+$3.000
 
 
-![](assets/tratorinfantil.png)  $2.500
+![](assets/tratorinfantil.png) 
+
+$2.500
